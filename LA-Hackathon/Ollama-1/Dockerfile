@@ -47,6 +47,10 @@ CMD [ "echo", "Successfully installed!" ]
 #app> OLLAMA_HOST=0.0.0.0 ollama serve &
 ### WAIT for about 10 seconds before <press enter>
 
+#app> python3 scripts.py
+
+####### OTHER ########
+
 #app> ollama list
 ## should be empty
 
